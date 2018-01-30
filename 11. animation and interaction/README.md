@@ -22,41 +22,41 @@
 
 3. \* Создайте машинку, движущуюся на зрителя
 
-<details><summary>Пример</summary>
+   <details><summary>Пример</summary>
 
-![car](https://media.giphy.com/media/3o7WIOcNjgPc9uYs4U/giphy.gif)
+   ![car](https://media.giphy.com/media/3o7WIOcNjgPc9uYs4U/giphy.gif)
 
-</details>
+   </details>
 
 4. \* Приведенный код рисует точку двужущуюся [по синусоиде](https://ru.wikipedia.org/wiki/Синусоида), используя функцию `sin()`. Добавь еще хотя бы 3 точки и настрой движение так, чтобы анимация стала напоминать ползущую змею
 
-<details><summary>Заготовка кода</summary>
+   <details><summary>Заготовка кода</summary>
 
-```javascript
-var x = 0;
-var y = 50 * sin(x / 50) + 200;
+   ```javascript
+   var x = 0;
+   var y = 50 * sin(x / 50) + 200;
 
-function setup() {
-    createCanvas(400, 400);
-    noStroke();
-}
+   function setup() {
+       createCanvas(400, 400);
+       noStroke();
+   }
 
-function draw() {
-    background(48, 48, 48);
-    ellipse(x, y, 20, 20);
-    
-    x = x + 1;
-    y = 50 * sin(x / 50) + 200;
-}
-```
+   function draw() {
+       background(48, 48, 48);
+       ellipse(x, y, 20, 20);
 
-</details>
+       x = x + 1;
+       y = 50 * sin(x / 50) + 200;
+   }
+   ```
 
-<details><summary>Пример</summary>
+   </details>
 
-![snake](https://media.giphy.com/media/xUOwG4Tqfc07UOcLYY/giphy.gif)
+   <details><summary>Пример</summary>
 
-</details>
+   ![snake](https://media.giphy.com/media/xUOwG4Tqfc07UOcLYY/giphy.gif)
+
+   </details>
 
 5. `Tasty Tomato`
 
