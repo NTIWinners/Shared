@@ -1,5 +1,7 @@
 [Справочник](https://github.com/Simplifier/Processing-Lessons/wiki/Фигуры) по основным функциям
 
+[Ссылка](https://www.khanacademy.org/computing/computer-programming/programming) на курс
+
 1. Funky Frog
 
    1. Наша лягушка пока без рта! Нарисуйте большой рот по центру морды лягушки. Для этого вызывайте функцию `ellipse()` с заданными в программе координатами `x` и `y`.  Сделайте рот достаточно большим, чтобы съесть много мух!
