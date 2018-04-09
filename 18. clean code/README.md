@@ -1,3 +1,5 @@
+[Ссылка](https://www.khanacademy.org/computing/computer-programming/programming) на курс
+
 1. `Quiz: Clean code`
 
    1. Учитывая рассмотренные советы, выбери какой из этих отрывков кода наиболее удобочитаемый?

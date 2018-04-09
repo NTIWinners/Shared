@@ -1,3 +1,5 @@
+[Ссылка](https://www.khanacademy.org/computing/computer-programming/programming) на курс
+
 1. Сделай игру в стиле  `Shoot 'Em Up` ([демо](http://simplifier.github.io/processingcourse/shootemup/))
    1. Открой [заготовку игры](https://www.khanacademy.org/computer-programming/shoot-em-up/4779846073876480). На сцену уже добавлено оружие (квадрат), которое следует за мышью. Сделай, чтобы оно стреляло
       1. Добавь переменные для хранения координат  скорости пули

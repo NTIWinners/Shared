@@ -1,3 +1,5 @@
+[Ссылка](https://www.khanacademy.org/computing/computer-programming/programming) на курс
+
 1. `Favorite Fruits`
 
    1. Тебе нужно вывести 3 твоих любимых фрукта. Начни с того, чтобы создать масив с ними
